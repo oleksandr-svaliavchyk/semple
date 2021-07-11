@@ -1,7 +1,7 @@
 # Twitter Bootstrap
 
 ## Начало работы
-** Twitter Bootstrap **
+**Twitter Bootstrap**
 Варианты установки:
 
 *CDN
